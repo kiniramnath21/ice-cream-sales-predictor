@@ -3,7 +3,7 @@ import pickle
 import numpy as np
 
 # Load trained model
-model = pickle.load(open("../model/ice_cream_model_pipeline.pkl", "rb"))
+model = pickle.load(open("ice_cream_model_pipeline.pkl", "rb"))
 
 st.set_page_config(page_title="Ice Cream Sales Predictor", page_icon="🍦")
 
