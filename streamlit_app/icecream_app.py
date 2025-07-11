@@ -2,7 +2,7 @@ import streamlit as st
 import pickle
 import numpy as np
 import os
-st.write("📁 Files in current directory:", os.listdir())
+#st.write("📁 Files in current directory:", os.listdir())
 
 
 # Load trained model
