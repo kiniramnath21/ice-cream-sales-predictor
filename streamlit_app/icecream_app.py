@@ -6,8 +6,8 @@ st.write("📁 Files in current directory:", os.listdir())
 
 
 # Load trained model
-model = pickle.load(open("ice_cream_model_pipeline.pkl", "rb"))
-
+model = pickle.load(open("streamlit_app/ice_cream_model_pipeline.pkl", "rb"))
+# model = pickle.load(open("../model/ice_cream_model_pipeline.pkl", "rb"))  # Uncomment if using relative path
 
 st.set_page_config(page_title="Ice Cream Sales Predictor", page_icon="🍦")
 
