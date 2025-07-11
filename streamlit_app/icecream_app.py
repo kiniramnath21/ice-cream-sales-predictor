@@ -1,9 +1,13 @@
 import streamlit as st
 import pickle
 import numpy as np
+import os
+st.write("📁 Files in current directory:", os.listdir())
+
 
 # Load trained model
 model = pickle.load(open("ice_cream_model_pipeline.pkl", "rb"))
+
 
 st.set_page_config(page_title="Ice Cream Sales Predictor", page_icon="🍦")
 
