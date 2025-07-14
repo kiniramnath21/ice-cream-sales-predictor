@@ -94,7 +94,7 @@ Expected Output:
 
 ```json
 {
-  "Predicted Revenue": 640.75
+  "Predicted Revenue": 688.50
 }
 ```
 
