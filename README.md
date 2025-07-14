@@ -1,5 +1,8 @@
 # 🍦 Ice Cream Sales Prediction using Machine Learning
 
+[![Streamlit App](https://img.shields.io/badge/Live-Demo-Streamlit-00C853?logo=streamlit&logoColor=white&style=for-the-badge)](https://kiniramnath21-ice-cream-sales-predictor.streamlit.app/)
+
+
 This project predicts ice cream sales revenue based on weather and temporal features using a machine learning model. It includes a Flask API for backend prediction and a Streamlit app for a user-friendly web interface.
 
 ---
