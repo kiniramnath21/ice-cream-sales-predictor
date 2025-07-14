@@ -2,11 +2,9 @@
 
 <p align="center">
   <a href="https://kiniramnath21-ice-cream-sales-predictor.streamlit.app/">
-    <img src="https://img.shields.io/badge/Live-Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App">
+    <img src="https://img.shields.io/badge/Live%20Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit Demo">
   </a>
 </p>
-
-
 
 This project predicts ice cream sales revenue based on weather and temporal features using a machine learning model. It includes a Flask API for backend prediction and a Streamlit app for a user-friendly web interface.
 
