@@ -1,6 +1,10 @@
 # 🍦 Ice Cream Sales Prediction using Machine Learning
 
-[![Streamlit App](https://img.shields.io/badge/Live-Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white)](https://kiniramnath21-ice-cream-sales-predictor.streamlit.app/)
+<p align="center">
+  <a href="https://kiniramnath21-ice-cream-sales-predictor.streamlit.app/">
+    <img src="https://img.shields.io/badge/Live-Demo-Streamlit-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" alt="Streamlit App">
+  </a>
+</p>
 
 
 
